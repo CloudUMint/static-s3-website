@@ -1,9 +1,7 @@
-# 🚀 Despliegue de un sitio web estático en Amazon S3 desde cero
+# 🚀 Despliegue de un sitio web estático en S3
 
 Este repositorio contiene el código fuente utilizado para un artículo en Medium  
 que explica cómo desplegar un sitio web estático utilizando únicamente **Amazon S3** desde cero.
-
----
 
 ## 📋 Descripción
 
@@ -12,8 +10,6 @@ El proyecto incluye:
 - 🏠 **Página principal** (`index.html`): Muestra un mensaje de éxito al desplegar el sitio.
 - ⚠️ **Página de error personalizada** (`error.html`): Maneja errores 404.
 - 🔐 **Política de bucket S3** (`policies/bucket.json`): Permite el acceso público a los archivos del sitio.
-
----
 
 ## 🗂️ Estructura del proyecto
 
